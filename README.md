@@ -6,7 +6,8 @@
 Привет! Это **FunBox** — место для забавного кода. Пока тут один проект, но он прикольный!
 
 ## Что есть?
-- Скрипт с машиной, которая ездит вправо-влево.
+- Скрипт с машиной, которая ездит вправо-влево.(Car)
+- LazyGenix — это забавная программа, которая генерирует случайные "гениальные" идеи (например, "котик-пузатик с Wi-Fi"). Иногда она ленится и отказывается работать, а ещё заменяет слова на смешные варианты. 
 
 ## Зачем?
 - Посмотреть, как машина катается.
@@ -33,6 +34,7 @@ Hi! This is **FunBox** — a spot for fun code. Right now, there’s just one pr
 
 ## What’s here?
 - A script with a car moving left and right.
+- LazyGenix is a fun program that generates random "genius" ideas (e.g., "catik-fatik with Wi-Fi"). It sometimes gets lazy and refuses to work, and it swaps words for silly versions.
 
 ## Why?
 - To watch the car go.
